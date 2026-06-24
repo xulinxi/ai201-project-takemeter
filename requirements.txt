@@ -1,0 +1,11 @@
+# Deployed interface (app.py)
+gradio>=4.0
+groq>=0.11            # for the zero-shot backend
+
+# Local fine-tuned backend (optional — only if you downloaded ./takemeter-model)
+torch>=2.0
+transformers>=4.40
+
+# Data scripts (parse/build/review/kappa)
+pandas>=2.0
+scikit-learn>=1.3

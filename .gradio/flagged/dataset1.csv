@@ -1,0 +1,4 @@
+Paste a r/LetsTalkMusic post or comment,Predicted label + confidence,output 1,timestamp
+MBV's Loveless uses the glide-guitar technique — detuning mid-chord with the tremolo arm — which is what creates that seasick pitch-bend. It's deliberate.,"{""label"": null, ""confidences"": null}",,2026-06-24 02:11:53.849304
+MBV's Loveless uses the glide-guitar technique — detuning mid-chord with the tremolo arm — which is what creates that seasick pitch-bend. It's deliberate.,"{""label"": ""analysis"", ""confidences"": [{""label"": ""analysis"", ""confidence"": 1.0}]}","**analysis** — structured argument backed by specific, verifiable evidence  
+(backend: groq, confidence 1.00)",2026-06-24 02:16:21.452185
