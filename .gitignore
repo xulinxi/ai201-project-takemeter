@@ -2,8 +2,12 @@
 # Keep a local/backup copy; not version-controlled.
 data/raw/
 
+data/milestone5-finetuning-results/
+
 # Intermediate parsed pool — regenerable with `python3 scripts/parse_html.py`
 data/candidates.csv
+
+
 
 # Python
 __pycache__/
