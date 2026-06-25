@@ -328,7 +328,7 @@ A 3–5 minute walkthrough covering: 3–5 posts classified by the fine-tuned mo
 confidence visible; one correct prediction with narration of why it's reasonable; one incorrect
 prediction with narration of what went wrong; and a walkthrough of this evaluation report.
 
-> 📹 **Demo link:** _add your recording URL here_
+> 📹 **Demo link:** https://www.loom.com/share/2c38a031e50a4f939f8f37f7d1965e05
 
 ## Repo layout
 ```
